@@ -1,6 +1,6 @@
 {
   "name": "@rolule/react-hook-smart-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-hook-form wrapper for creating smart and simple forms",
   "author": "Robin Luley <rolule@posteo.eu> (https://github.com/rolule)",
   "repository": {

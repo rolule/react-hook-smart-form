@@ -2,6 +2,10 @@
 
 A react-hook-form wrapper for creating smart and simple forms
 
+## Installation
+
+`yarn add @rolule/react-hook-form`
+
 ## Contributing
 
 Feel free to contribute to this project.
