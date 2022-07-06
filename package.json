@@ -2,7 +2,7 @@
   "name": "react-hook-smart-form",
   "version": "1.0.0",
   "description": "A react-hook-form wrapper for creating smart and simple forms",
-  "author": "Robin Luley (https://github.com/rolule)",
+  "author": "Robin Luley <rolule@posteo.eu> (https://github.com/rolule)",
   "repository": {
     "type": "git",
     "url": "https://github.com/rolule/react-hook-smart-form"
